@@ -6,6 +6,7 @@ public class Armstrong {
 	public static void main(String[] args) {
 		CheckArmstrongNumber();
 		CountAndPrintArmstrongNumberFrom0to1000() ;
+              system.out.println("hello");
 		
 	}
 	public static void CheckArmstrongNumber() {
